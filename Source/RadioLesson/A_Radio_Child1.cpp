@@ -7,7 +7,7 @@ void AA_Radio_Child1::BeginPlay() {
 
 	AA_Radio_Parent::BeginPlay();
 	Audio->Play(0);
-	turnOn();
+	//turnOn();
 	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("BeginTurned!"));
 }
 
