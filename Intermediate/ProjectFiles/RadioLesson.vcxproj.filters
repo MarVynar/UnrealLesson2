@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RadioLesson.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{25C6F55A-1DF0-4662-9C4C-3794DD113B87}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RadioLesson.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RadioLessonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{20FEF64F-A2BA-4809-9AF0-98A3C0D20533}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RadioLesson">
+      <UniqueIdentifier>{E36422AA-11FB-4AF4-B321-043FB7CD9781}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RadioLesson\A_Radio_Child1.cpp">
+      <Filter>Source\RadioLesson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RadioLesson\A_Radio_Child1.h">
+      <Filter>Source\RadioLesson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RadioLesson\A_Radio_Child2.cpp">
+      <Filter>Source\RadioLesson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RadioLesson\A_Radio_Child2.h">
+      <Filter>Source\RadioLesson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RadioLesson\A_Radio_Parent.cpp">
+      <Filter>Source\RadioLesson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RadioLesson\A_Radio_Parent.h">
+      <Filter>Source\RadioLesson</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\RadioLesson\RadioLesson.Build.cs">
+      <Filter>Source\RadioLesson</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RadioLesson\RadioLesson.cpp">
+      <Filter>Source\RadioLesson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RadioLesson\RadioLesson.h">
+      <Filter>Source\RadioLesson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RadioLesson\RadioLessonCharacter.cpp">
+      <Filter>Source\RadioLesson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RadioLesson\RadioLessonCharacter.h">
+      <Filter>Source\RadioLesson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RadioLesson\RadioLessonGameMode.cpp">
+      <Filter>Source\RadioLesson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RadioLesson\RadioLessonGameMode.h">
+      <Filter>Source\RadioLesson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RadioLesson",
+			"Path": "F:\\UnrealVault\\RadioLesson\\Source\\RadioLesson.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RadioLessonEditor",
+			"Path": "F:\\UnrealVault\\RadioLesson\\Source\\RadioLessonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
